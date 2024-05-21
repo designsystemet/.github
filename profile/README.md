@@ -1,3 +1,1 @@
-# Designsystemet
-
-Designsystemt product & tools
+Products, tools and resources for Designsystemet
