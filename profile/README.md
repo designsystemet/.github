@@ -1,1 +1,1 @@
-Products, tools and resources for Designsystemet
+Internal products, tools and resources for Designsystemet
